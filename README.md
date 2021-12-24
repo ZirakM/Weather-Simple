@@ -18,7 +18,7 @@ Weather conditions can change drastically, affecting the safety of one’s trave
     3. [2 - User Interaction Interface](https://github.com/ZirakM/Weather-Simple/blob/main/Requirements/2%20-%20User%20Interaction%20Interface.pdf)
     4. [3 - Functioning Web Applicaiton](https://github.com/ZirakM/Weather-Simple/blob/main/Requirements/3%20-%20Functioning%20Web%20Application.pdf)
 5. [**Test Cases**](#Test-Cases)
-    1. [Test Case Folder](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Test%20Case)
+    1. [Test Case Folder](https://github.com/ZirakM/Weather-Simple/tree/main/Test%20Case)
 6. [**Use Cases**](#Use-Cases)
     1. [Use Case Folder](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Use%20Cases)
     2. [1 - JamBoard](https://github.com/SOFE2720/Group-62-WeatherSimple/tree/main/Use%20Cases/1%20-%20JamBoard)
