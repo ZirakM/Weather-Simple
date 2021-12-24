@@ -45,7 +45,7 @@ This README.md provides a guide to help users download, and try out our WeatherS
 ## **Step 1**
 >Clone the repository 
 >
->git clone https://github.com/SOFE2720/Group-62-WeatherSimple.git
+>git clone https://github.com/ZirakM/Weather-Simple.git
 
 ## **Step 2**
 >Open index.html 
