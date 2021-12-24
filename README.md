@@ -25,7 +25,7 @@ Weather conditions can change drastically, affecting the safety of one’s trave
     3. [2 - CRC Cards](https://github.com/ZirakM/Weather-Simple/tree/main/Use%20Cases/2%20-%20CRC%20Cards)
     4. [3 - Use Case Diagram](https://github.com/ZirakM/Weather-Simple/blob/main/Use%20Cases/3%20-%20Use%20Case%20Diagram.pdf)
     5. [4 - User Stories](https://github.com/ZirakM/Weather-Simple/blob/main/Use%20Cases/4%20-%20User%20Stories.pdf)
-    6. [5 - User Story](https://github.com/ZirakM/Weather-Simple/blob/main/Use%20Cases/5%20-%20User%20Story.pdf
+    6. [5 - User Story](https://github.com/ZirakM/Weather-Simple/blob/main/Use%20Cases/5%20-%20User%20Story.pdf)
     7. [6 - Use Cases](https://github.com/ZirakM/Weather-Simple/blob/main/Use%20Cases/6%20-%20Use%20Cases.pdf)
 
 ## Project Information
